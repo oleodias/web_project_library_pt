@@ -357,19 +357,23 @@
   justify-content: space-between;
   display: flex;
   margin-bottom: 108px;
+  /* não estou sabendo como posiscionar da maneira correta esse elemento */
 }
 
 .footer__column_content_hours {
   position: relative;
+  /* não estou sabendo como posiscionar da maneira correta esse elemento */
 }
 
 .footer__column_content_social {
   position: relative;
   right: 80px;
+  /* não estou sabendo como posiscionar da maneira correta esse elemento */
 }
 
 .footer__logo {
   margin: auto;
+  /* não estou sabendo como posiscionar da maneira correta esse elemento */
 }
 
 .footer__column-heading {
