@@ -10,6 +10,10 @@
   flex-direction: column;
 }
 
+* {
+  scroll-behavior: smooth;
+}
+
 .header {
   display: flex;
   flex-direction: column;
@@ -45,6 +49,10 @@
   color: #000000;
   text-decoration: none;
   font-weight: normal;
+}
+
+.nav__link:hover {
+  color: rgb(59, 59, 255);
 }
 
 .header__first-part-left {
