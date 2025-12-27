@@ -362,32 +362,26 @@
 }
 
 .footer__columns {
-  justify-content: space-between;
   display: flex;
   margin-bottom: 108px;
-  /* não estou sabendo como posiscionar da maneira correta esse elemento */
 }
 
 .footer__column_content_hours {
-  position: relative;
-  /* não estou sabendo como posiscionar da maneira correta esse elemento */
+  margin-left: auto;
 }
 
 .footer__column_content_social {
-  position: relative;
-  right: 80px;
-  /* não estou sabendo como posiscionar da maneira correta esse elemento */
-}
-
-.footer__logo {
-  margin: auto;
-  /* não estou sabendo como posiscionar da maneira correta esse elemento */
+  margin-left: 80px;
 }
 
 .footer__column-heading {
   font-weight: bold;
   line-height: 20px;
   font-size: 16px;
+}
+
+.footer__logo {
+  margin: auto;
 }
 
 .footer__list {
